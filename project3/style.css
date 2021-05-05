@@ -1,6 +1,6 @@
 #container {
-	width: 95%
-	height: 95%
+	width: 95%;
+	height: 95%;
 }
 
 header {
@@ -17,7 +17,7 @@ h1 {
 	text-align: center;
 	font-family: "Lucida Console", monospace;
 	letter-spacing: 0.1em;
-	font-size: 50px
+	font-size: 50px;
 }
 
 h2 {
@@ -25,21 +25,21 @@ h2 {
 	text-align: center;
 	font-family: "Lucida Console", monospace;
 	letter-spacing: 0.1em;
-	font-size: 30px
+	font-size: 30px;
 }
 
 h3 {
 	color: white;
 	text-align: left;
 	font-family: "Lucida Console", monospace;
-	font-size: 20px 
+	font-size: 20px ;
 }
 
 h4 {
 	color: grey;
 	text-align: left;
 	font-family: "Lucida Console", monospace;
-	font-size: 17px 
+	font-size: 17px;
 }
 
 footer {
@@ -52,7 +52,7 @@ footer {
 p {
 	color: white;
 	font-family: "Lucida Console", monospace;
-	margin: 10px
+	margin: 10px;
 }
 
 #nav {
