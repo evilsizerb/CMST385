@@ -1,0 +1,107 @@
+#container {
+	width: 95%
+	height: 95%
+}
+
+header {
+	background-color: black;
+}
+
+body {
+	background-color: black;
+	font-family: "Lucida Console", monospace;
+}
+
+h1 {
+	color: lightblue;
+	text-align: center;
+	font-family: "Lucida Console", monospace;
+	letter-spacing: 0.1em;
+	font-size: 50px
+}
+
+h2 {
+	color: white;
+	text-align: center;
+	font-family: "Lucida Console", monospace;
+	letter-spacing: 0.1em;
+	font-size: 30px
+}
+
+h3 {
+	color: white;
+	text-align: left;
+	font-family: "Lucida Console", monospace;
+	font-size: 20px 
+}
+
+h4 {
+	color: grey;
+	text-align: left;
+	font-family: "Lucida Console", monospace;
+	font-size: 17px 
+}
+
+footer {
+	text-align: right;
+	padding: 30px;
+	background-color: lightblue;
+	color: white;
+}
+
+p {
+	color: white;
+	font-family: "Lucida Console", monospace;
+	margin: 10px
+}
+
+#nav {
+	text-align: center;
+}
+
+#nav li {
+	display: inline;
+}
+
+#nav a {
+	text-decoration: none; 
+	padding: 0 30px;
+	display: inline-block;
+	list-style-type: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	font-size: 17px;
+	font-family: "Lucida Console", monospace;
+}
+
+#nav a:hover {
+	background-color: black;
+	color: lightblue;
+}
+
+img.display {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+figcaption {
+	background-color: black;
+	color: white;
+	font-style: italic;
+	padding: 2px;
+}
+
+#songs {
+	color: white;
+	font-family: "Lucida Console", monospace;
+	list-style-type: none;
+}
+
+footer {
+	text-align: right;
+	padding: 30px;
+	background-color: lightblue;
+	color: white;
+}
